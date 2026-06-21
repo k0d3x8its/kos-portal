@@ -5,10 +5,12 @@ main.js
 
 # git-crypt repo — override global ignore for encrypted planning files
 !KNOWLEDGE.md
-!SESSION-LOG.md
-!task_plan.md
-!findings.md
-!progress.md
+!.memory/SESSION-LOG.md
+# .memory/ARCHIVE-LOG.md stays machine-local (large, low sync value)
+/.memory/ARCHIVE-LOG.md
+!.work/PLAN.md
+!.work/FINDINGS.md
+!.work/PROGRESS.md
 !TODOS.md
 
 # --- added by /dev-setup ---
@@ -19,11 +21,11 @@ main.js
 .claude/plugins/
 .claude/skills/
 RELEASE-NOTES.md
-EPISODIC-INDEX.md
-EPISODIC-ARCHIVE.md
+/.memory/EPISODIC-INDEX.md
+/.memory/EPISODIC-ARCHIVE.md
+/.memory/CONSOLIDATION-INBOX.md
 .episodic-baseline
 .episodic.lock
-CONSOLIDATION-INBOX.md
 .DS_Store
 Thumbs.db
 .vscode/
