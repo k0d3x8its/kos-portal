@@ -1,0 +1,9 @@
+{
+  "id": "kos-portal",
+  "name": "KOS Portal",
+  "version": "0.1.0",
+  "minAppVersion": "1.0.0",
+  "description": "Custom terminal panel that lives below KOS Burn Bar in Obsidian.",
+  "author": "k0d3x",
+  "isDesktopOnly": true
+}
