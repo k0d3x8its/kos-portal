@@ -3,6 +3,14 @@ main.js
 *.js.map
 .env
 
+# git-crypt repo — override global ignore for encrypted planning files
+!KNOWLEDGE.md
+!SESSION-LOG.md
+!task_plan.md
+!findings.md
+!progress.md
+!TODOS.md
+
 # --- added by /dev-setup ---
 .env.*
 !.env.example
@@ -10,10 +18,6 @@ main.js
 .claude/settings.local.json
 .claude/plugins/
 .claude/skills/
-task_plan.md
-findings.md
-progress.md
-SESSION-LOG.md
 RELEASE-NOTES.md
 EPISODIC-INDEX.md
 EPISODIC-ARCHIVE.md
