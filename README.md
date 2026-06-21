@@ -6,7 +6,7 @@ KOS Portal lives in the right sidebar, directly below [KOS Burn Bar](https://git
 
 ## What is KOS?
 
-[KOS (Kodex OS)](https://github.com/k0d3x8its/kos) is a personal knowledge system built on Obsidian. It uses a structured wiki schema and a set of AI skills to capture, organize, and surface your knowledge. KOS Portal is the in-vault chat interface for that system.
+[KOS (Kodex OS)](https://github.com/k0d3x8its/kos) is a personal knowledge management system built on Obsidian. It uses a structured wiki schema and a set of AI skills to capture, organize, and surface your knowledge. KOS Portal is the in-vault chat interface for that system.
 
 ## Features
 
